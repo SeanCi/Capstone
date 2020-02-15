@@ -13,5 +13,6 @@ This is unrelated to the capstone itself and was simply an earlier attempt at ta
 
 Large_Data_Cleaning.ipynb: the notebook which cleans the dataset that the capstone model is actually trained on
 
+model.pkl: the pickle model output from 'Capston Model at Scale.ipynb'
 
 Heroku-flask folder: contains all the code for building the Flask app for the deployment of the app on Heroku.
