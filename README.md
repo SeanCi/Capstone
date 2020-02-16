@@ -16,3 +16,7 @@ Large_Data_Cleaning.ipynb: the notebook which cleans the dataset that the capsto
 model.pkl: the pickle model output from 'Capston Model at Scale.ipynb'
 
 Heroku-flask folder: contains all the code for building the Flask app for the deployment of the app on Heroku.
+
+
+Link to the deployed app: 
+https://mysterious-shore-93394.herokuapp.com/
